@@ -1,7 +1,8 @@
 {
   "name": "build-blog",
   "engines": {
-  "node": "16.20.2"
+    "node": "20.9.0",
+    "yarn": "1.22.19"
   },
   "private": true,
   "dependencies": {
